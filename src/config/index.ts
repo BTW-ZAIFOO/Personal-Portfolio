@@ -1,12 +1,12 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Huzaifa Khan — Mobile & Web Developer",
+  title: "Huzaifa Khan — Frontend Engineer",
   author: "Huzaifa Khan",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Frontend Engineer based in Okara, PAKISTAN. I specialize in crafting intuitive user interfaces, building responsive websites and web applications, and ensuring seamless user experiences through clean, maintainable code.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/huzaifa small.jpeg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -28,38 +28,47 @@ export const SITE_CONTENT: SiteContent = {
     name: "Huzaifa Khan",
     specialty: "Frontend Engineer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Frontend Engineer based in Okara, PAKISTAN. I specialize in crafting intuitive user interfaces, building responsive websites and web applications, and ensuring seamless user experiences through clean, maintainable code.",
+    email: "huzaifazaifi25@gmail.com",
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "Codevenator",
+      position: "Frontend Trainee",
+      startDate: "Jan 2023",
+      endDate: "Mar 2023",
+      summary: ["Build Some Websites Using HTML and CSS only."],
+    },
+    {
+      company: "MindGigs, KPIT, Peshawar",
+      position: "Frontend Intern",
+      startDate: "Jun 2024",
+      endDate: "Oct 2024",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
+        "Build dynamic, responsive, and interactive user interfaces using React.js",
+        "Collaborate with other developers for learning.",
+        "Fix bugs, implement updates, and ensure consistent performance across devices and browsers.",
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "Invextech,Okara",
+      position: "Software Engineer(Frontend Developer)",
+      startDate: "Oct 2024",
+      endDate: "Jun 2025",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "Skilled in creating responsive and user-friendly interfaces that enhance user experiences.",
+        "Skilled in developing modern web apps with Next.js, experienced in TypeScript integration.",
+        "Work with designers to translate wireframes and designs into functional UI components.",
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
-      summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+      company: "Techmox,Okara",
+      position: "CEO,COO and Co-Founder",
+      startDate: "Jul 2025",
+      endDate: "Present",
+      summary: [
+        "Started our own company Techmox with my other talented Co-Founders, where I am working as CEO,COO and Co-Founder.",
+      ],
     },
   ],
   projects: [
@@ -87,12 +96,12 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
+     I'm a dedicated Frontend Engineer with a strong background in building modern, responsive, and user-focused web applications. With experience ranging from internships to full-time development roles, I've worked with technologies like HTML, CSS, JavaScript, React.js, Next.js, and TypeScript to create clean, efficient, and scalable user interfaces.
 
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+      Throughout my journey, I've collaborated with cross-functional teams, translated design mockups into functional components, and contributed to high-performance products. I take pride in writing maintainable code and continuously improving user experience across devices and browsers.
+
+      Currently, I’m serving as the CEO, COO, and Co-Founder of Techmox, where I lead with a focus on innovation, product quality, and meaningful digital solutions.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/huzaifa small.jpeg",
   },
 };
-
-// #5755ff
