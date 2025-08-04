@@ -96,11 +96,7 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-     I'm a dedicated Frontend Engineer with a strong background in building modern, responsive, and user-focused web applications. With experience ranging from internships to full-time development roles, I've worked with technologies like HTML, CSS, JavaScript, React.js, Next.js, and TypeScript to create clean, efficient, and scalable user interfaces.
-
-      Throughout my journey, I've collaborated with cross-functional teams, translated design mockups into functional components, and contributed to high-performance products. I take pride in writing maintainable code and continuously improving user experience across devices and browsers.
-
-      Currently, I’m serving as the CEO, COO, and Co-Founder of Techmox, where I lead with a focus on innovation, product quality, and meaningful digital solutions.
+     I'm a dedicated Frontend Engineer with a strong background in building modern, responsive, and user-focused web applications. With experience ranging from internships to full-time development roles, I've worked with technologies like HTML, CSS, JavaScript, React.js, Next.js, and TypeScript to create clean, efficient, and scalable user interfaces.Throughout my journey, I've collaborated with cross-functional teams, translated design mockups into functional components, and contributed to high-performance products. I take pride in writing maintainable code and continuously improving user experience across devices and browsers.Currently, I started my own company Hawkrix where I am working as CEO and Founder, where I lead with a focus on innovation, product quality, and meaningful digital solutions.
     `,
     image: "/huzaifa small.jpeg",
   },
