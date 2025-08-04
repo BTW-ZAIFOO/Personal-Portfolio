@@ -61,9 +61,6 @@ pnpm preview
 **Huzaifa Khan**
 - Frontend Engineer based in Okara, PAKISTAN
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
