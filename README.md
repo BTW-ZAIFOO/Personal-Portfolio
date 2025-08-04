@@ -1,35 +1,72 @@
-# AstroZen - Personal Portfolio Website
+# Huzaifa Khan — Personal Portfolio
 
-AstroZen is a minimalist, accessible and responsive portfolio template for your personal portfolio website. It is built with Astro and TailwindCSS.
+A modern, minimalist, and responsive personal portfolio website built with [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/). Showcases experience, featured projects, and about information for Huzaifa Khan, Frontend Engineer.
 
-![zen-og](https://github.com/user-attachments/assets/7a72aaae-6652-4cd0-becc-8e6a3c224993)
+![Portfolio Preview](public/zen-og.png)
 
-> [!NOTE]
-> The information contained in this template, including names, images, and content, is entirely fictitious and is intended solely to give the design a realistic appearance. Any coincidence with real-life people, events, or situations is purely coincidental. It is recommended that you replace this information with your own information.
+---
 
 ## 🔥 Features
 
-- [x] Minimalist design. clean and simple
-- [x] Mobile-first responsive layout
-- [x] SEO-friendly and accessible
-- [x] Easy to customize with a single configuration file
-
-## ✅ Lighthouse Score
-
-![performance](https://github.com/user-attachments/assets/4f95e2ca-03f9-4996-9e34-dcd179194c58)
+- Minimalist, clean design
+- Mobile-first responsive layout
+- SEO-friendly and accessible
+- Easy customization via configuration files
+- Showcases experience, projects, and about section
+- Social links and contact info
 
 ## 🚀 Getting Started
 
-Clone this repository to your local machine using Git.
+Clone this repository to your local machine:
 
-```scheme
-git clone https://github.com/immois/astro-zen.git
-cd astro-zen
+```sh
+git clone https://github.com/BTW-ZAIFOO/Personal-Portfolio.git
+cd Personal-Portfolio
 ```
 
-| Command        | Action                                       |
-| :------------- | :------------------------------------------- |
-| `pnpm install` | Installs dependencies                        |
-| `pnpm dev`     | Starts local dev server at `localhost:4321`  |
-| `pnpm build`   | Build your production site to `./dist/`      |
-| `pnpm preview` | Preview your build locally, before deploying |
+Install dependencies and start the development server:
+
+```sh
+pnpm install
+pnpm dev
+```
+
+Build for production:
+
+```sh
+pnpm build
+```
+
+Preview your build locally:
+
+```sh
+pnpm preview
+```
+
+## 🛠️ Technologies Used
+
+- [Astro](https://astro.build/)
+- [TailwindCSS](https://tailwindcss.com/)
+- TypeScript
+
+## 📁 Project Structure
+
+- `src/components/` — UI components (Hero, Experience, Projects, About, etc.)
+- `src/layouts/` — Main layout
+- `src/pages/` — Main page
+- `src/config/` — Site and content configuration
+- `src/styles/` — Global styles
+- `public/` — Static assets (images, icons)
+
+## 👤 Author
+
+**Huzaifa Khan**
+- Frontend Engineer based in Okara, PAKISTAN
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+> Designed & Developed by Huzaifa Khan (BTW-ZAIFOO)
