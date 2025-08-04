@@ -62,12 +62,12 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Techmox,Okara",
-      position: "CEO,COO and Co-Founder",
+      company: "Hawkrix,Okara",
+      position: "CEO and Founder",
       startDate: "Jul 2025",
       endDate: "Present",
       summary: [
-        "Started our own company Techmox with my other talented Co-Founders, where I am working as CEO,COO and Co-Founder.",
+        "Started my own company Hawkrix where I am working as CEO and Founder.",
       ],
     },
   ],
