@@ -2,8 +2,6 @@
 
 A modern, minimalist, and responsive personal portfolio website built with [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/). Showcases experience, featured projects, and about information for Huzaifa Khan, Frontend Engineer.
 
-![Portfolio Preview](public/zen-og.png)
-
 ---
 
 ## 🔥 Features
