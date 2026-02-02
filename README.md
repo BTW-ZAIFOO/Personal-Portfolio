@@ -59,7 +59,7 @@ pnpm preview
 ## 👤 Author
 
 **Huzaifa Khan**
-- Frontend Engineer based in Okara, PAKISTAN
+-Full Stack Software Engineer based in Okara, PAKISTAN
 
 
 ---

@@ -1,10 +1,10 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Huzaifa Khan — Frontend Engineer",
+  title: "Huzaifa Khan — Full Stack Software Engineer",
   author: "Huzaifa Khan",
   description:
-    "Frontend Engineer based in Okara, PAKISTAN. I specialize in crafting intuitive user interfaces, building responsive websites and web applications, and ensuring seamless user experiences through clean, maintainable code.",
+    "Full Stack Software Engineer based in Okara, PAKISTAN. I specialize in crafting intuitive user interfaces, building responsive websites and web applications, and ensuring seamless user experiences through clean, maintainable code.",
   lang: "en",
   siteLogo: "/huzaifa small.jpeg",
   navLinks: [
@@ -26,9 +26,9 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Huzaifa Khan",
-    specialty: "Frontend Engineer",
+    specialty: "Full Stack Software Engineer",
     summary:
-      "Frontend Engineer based in Okara, PAKISTAN. I specialize in crafting intuitive user interfaces, building responsive websites and web applications, and ensuring seamless user experiences through clean, maintainable code.",
+      "Full Stack Software Engineer based in Okara, PAKISTAN. I specialize in crafting intuitive user interfaces, building responsive websites and web applications, and ensuring seamless user experiences through clean, maintainable code.",
     email: "huzaifazaifi25@gmail.com",
   },
   experience: [
@@ -65,9 +65,10 @@ export const SITE_CONTENT: SiteContent = {
       company: "Hawkrix,Okara",
       position: "CEO and Founder",
       startDate: "Jul 2025",
-      endDate: "Present",
+      endDate: "Sep 2025",
       summary: [
         "Started my own company Hawkrix where I am working as CEO and Founder.",
+        "Ended Up Due To Some Personal Problems."
       ],
     },
   ],
@@ -96,7 +97,7 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-     I'm a dedicated Frontend Engineer with a strong background in building modern, responsive, and user-focused web applications. With experience ranging from internships to full-time development roles, I've worked with technologies like HTML, CSS, JavaScript, React.js, Next.js, and TypeScript to create clean, efficient, and scalable user interfaces.Throughout my journey, I've collaborated with cross-functional teams, translated design mockups into functional components, and contributed to high-performance products. I take pride in writing maintainable code and continuously improving user experience across devices and browsers.Currently, I started my own company Hawkrix where I am working as CEO and Founder, where I lead with a focus on innovation, product quality, and meaningful digital solutions.
+     I'm a dedicated Full Stack Software Engineer with a strong background in building modern, responsive, and user-focused web applications. With experience ranging from internships to full-time development roles, I've worked with technologies like HTML, CSS, JavaScript, React.js, Next.js, and TypeScript to create clean, efficient, and scalable user interfaces.Throughout my journey, I've collaborated with cross-functional teams, translated design mockups into functional components, and contributed to high-performance products. I take pride in writing maintainable code and continuously improving user experience across devices and browsers.Currently, I started my own company Hawkrix where I am working as CEO and Founder, where I lead with a focus on innovation, product quality, and meaningful digital solutions.
     `,
     image: "/huzaifa small.jpeg",
   },
